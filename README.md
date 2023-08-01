@@ -1,6 +1,6 @@
 # StreamHub Repository
 
-![imagen](./astro.jpg)=150x
+![imagen](./astro.jpg)=70x
 
 Este repositorio contiene el código y el diagrama de una aplicación llamada StreamHub, diseñada para proporcionar a los usuarios un acceso sencillo y conveniente a todos los canales de las diversas plataformas de streaming disponibles.
 
