@@ -1,7 +1,7 @@
 # StreamHub Repository
 
 <p align="center">
-  <img src="./astro.jpg" alt="imagen" width="600" height="500">
+  <img src="./astro.jpg" alt="imagen" width="400" height="350">
 </p>
 
 
